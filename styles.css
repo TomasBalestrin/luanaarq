@@ -552,6 +552,18 @@ a{ color:inherit; }
 .card h3{
   font-family:var(--disp); font-size:1.42rem; font-weight:600; font-stretch:110%;
   letter-spacing:-.015em; margin:0 0 .9rem;
+  line-height:1.2;
+  /* Reserva duas linhas: títulos curtos e longos começam o texto na
+     mesma altura, mantendo os quatro cards alinhados. */
+  min-height:2.4em;
+  text-wrap:balance;
+}
+/* Primeira linha do card: a quem o serviço se destina, em destaque. */
+.card__lead{
+  margin:0 0 .9rem;
+  font-family:var(--disp); font-weight:500; font-size:.94rem;
+  line-height:1.35; letter-spacing:-.005em;
+  color:var(--terra);
   text-wrap:balance;
 }
 .card>p{ margin:0 0 1.4rem; color:var(--corpo-cor); font-size:.98rem; }
@@ -564,7 +576,8 @@ a{ color:inherit; }
   border-bottom:1px solid var(--terra);
   transition:color .3s var(--ease);
 }
-.card__cta::after{ content:" →"; }
+/* Espaço inquebrável: a seta nunca cai sozinha na linha de baixo. */
+.card__cta::after{ content:"\00a0→"; }
 .card__cta:hover{ color:var(--terra); }
 
 /* ═══ CONTATO ════════════════════════════════════════ */
