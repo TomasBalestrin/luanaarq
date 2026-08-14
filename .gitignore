@@ -1,0 +1,11 @@
+# Imagens originais enviadas pela cliente.
+# Os arquivos servidos pelo site ficam em assets/, já redimensionados.
+banner.png
+logo.jpg
+luana.jpg
+
+# Pasta fonte dos projetos (bruta); o site usa assets/projetos/
+Imagens/
+
+# Sistema
+.DS_Store
