@@ -510,8 +510,9 @@ a{ color:inherit; }
   gap:clamp(2rem,5vw,4.5rem); align-items:center;
 }
 .sobre__img{ position:relative; }
-/* 2/3 é a proporção do arquivo: a foto aparece inteira, sem recorte. */
-.sobre__img img{ width:100%; aspect-ratio:2/3; object-fit:cover; }
+/* height:auto é obrigatório: sem ele o atributo height="1500" do HTML vira
+   a altura da caixa e a foto fica esticada. A proporção vem do arquivo. */
+.sobre__img img{ width:100%; height:auto; }
 .sobre__img::after{
   content:"";
   position:absolute; inset:auto -14px -14px auto;
@@ -735,7 +736,9 @@ a{ color:inherit; }
   .marca__nome{ font-size:.8rem; letter-spacing:.14em; }
   .rodape__logo{ width:210px; }
   .sobre__grid{ grid-template-columns:1fr; }
-  .sobre__img{ max-width:340px; }
+  /* Retrato em 2/3: a largura acompanha a tela para a foto não
+     dominar a seção nos celulares menores. */
+  .sobre__img{ max-width:clamp(190px,52vw,300px); }
   .contato__dados>div{ grid-template-columns:1fr; gap:.2rem; }
 }
 
