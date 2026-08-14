@@ -1,11 +1,13 @@
 # Imagens originais enviadas pela cliente.
 # Os arquivos servidos pelo site ficam em assets/, já redimensionados.
-banner.png
-logo.jpg
-luana.jpg
+# A barra inicial prende o padrão à raiz: sem ela, "luana.jpg" também
+# esconderia assets/luana.jpg, que o site precisa.
+/banner.png
+/logo.jpg
+/luana.jpg
 
 # Pasta fonte dos projetos (bruta); o site usa assets/projetos/
-Imagens/
+/Imagens/
 
 # Sistema
 .DS_Store
