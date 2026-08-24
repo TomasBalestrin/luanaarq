@@ -254,16 +254,23 @@ a{ color:inherit; }
   font-size:clamp(2rem,1rem + 4.6vw,4.6rem);
   font-weight:500;
   font-stretch:118%;
-  line-height:.98;
-  letter-spacing:.02em;
+  line-height:1;
+  letter-spacing:.01em;
   text-transform:uppercase;
   color:var(--papel);
-  margin:0 0 1.4rem;
+  margin:0 0 1.5rem;
+  text-wrap:balance;
 }
+/* Subtítulo dentro do H1: o buscador lê "Luana Toledo Arquiteta em
+   Taubaté" como um texto só, sem tirar o nome do posto de protagonista. */
 .hero__nome em{
-  display:inline-block;
+  display:block;
+  margin-top:.55rem;
   font-family:var(--disp); font-style:normal;
-  font-weight:300; font-stretch:118%;
+  font-weight:300; font-stretch:104%;
+  font-size:clamp(.9rem,.62rem + 1.15vw,1.72rem);
+  line-height:1.15;
+  letter-spacing:.16em;
   color:var(--nude);
 }
 .hero__linha{
@@ -753,6 +760,16 @@ a{ color:inherit; }
      dominar a seção nos celulares menores. */
   .sobre__img{ max-width:clamp(190px,52vw,300px); }
   .contato__dados>div{ grid-template-columns:1fr; gap:.2rem; }
+}
+
+/* No corte mobile o banner é mais claro na altura do texto: o degradê
+   sobe mais cedo para o H1 e a cota não perderem contraste. */
+@media (max-width:760px){
+  .hero::after{
+    background:linear-gradient(180deg,
+      rgba(43,24,14,.62) 0%, rgba(43,24,14,.24) 20%,
+      rgba(43,24,14,.80) 50%, rgba(43,24,14,.96) 100%);
+  }
 }
 
 @media (max-width:640px){
