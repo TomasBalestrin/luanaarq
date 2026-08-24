@@ -90,6 +90,24 @@ redirecionando com 301 para não perder o que já foi indexado.
 `og:image` precisa de URL **absoluta**: com caminho relativo as redes sociais
 não carregam a imagem da prévia.
 
+## Search Console
+
+O domínio é um subdomínio do Vercel, então **não dá para criar propriedade
+do tipo "Domínio"** — esse tipo exige registro TXT no DNS, e o DNS de
+`vercel.app` é da Vercel. Use propriedade **"Prefixo do URL"**, com
+`https://luanaarq.vercel.app/`, verificada por arquivo HTML na raiz ou por
+meta tag no `<head>`.
+
+`robots.txt` e `sitemap.xml` estão na raiz. Ao trocar de domínio, atualize
+a URL nos dois.
+
+## Analytics
+
+O site **não tem** nenhuma ferramenta de medição instalada. O container do
+Google Tag Manager que veio junto com a estrutura reaproveitada era de outro
+cliente e foi removido. Para medir acessos, criar um container ou uma
+propriedade do GA4 no nome da Luana e instalar do zero.
+
 ## Ainda a preencher
 
 - **Nome no Perfil da Empresa** — o JSON-LD declara "Luana Toledo Arquitetura".

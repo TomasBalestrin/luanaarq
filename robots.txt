@@ -1,0 +1,8 @@
+# Site institucional de página única — tudo pode ser rastreado.
+User-agent: *
+Allow: /
+
+# Pastas de trabalho não servidas pelo site não precisam de regra:
+# não existem no deploy.
+
+Sitemap: https://luanaarq.vercel.app/sitemap.xml
