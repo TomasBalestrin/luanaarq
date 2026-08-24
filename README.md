@@ -71,11 +71,27 @@ Ao editar, mantenha telefone, horário e nome **idênticos** ao que aparece no
 Perfil da Empresa e no rodapé. Divergência entre as três fontes enfraquece o
 sinal local. Validar em <https://search.google.com/test/rich-results>.
 
+## Publicação
+
+No ar em <https://luanaarq.vercel.app/>, com deploy automático a cada push
+no `main`.
+
+O domínio aparece em quatro lugares do `index.html`, todos no `<head>`:
+
+| Onde | Por quê |
+|---|---|
+| `<link rel="canonical">` | evita conteúdo duplicado entre domínios |
+| `og:url` e `og:image` | prévia ao compartilhar no WhatsApp e Instagram |
+| `url`, `@id`, `logo`, `image` no JSON-LD | identidade da empresa para o buscador |
+
+Ao migrar para o domínio próprio, troque nos quatro e mantenha o antigo
+redirecionando com 301 para não perder o que já foi indexado.
+
+`og:image` precisa de URL **absoluta**: com caminho relativo as redes sociais
+não carregam a imagem da prévia.
+
 ## Ainda a preencher
 
-- **Domínio** — o JSON-LD usa `https://www.luanatoledoarquitetura.com.br` como
-  provisório em `url`, `@id`, `logo` e `image`. Trocar pelo domínio real antes
-  de publicar; é o único lugar do site que depende dele.
 - **Nome no Perfil da Empresa** — o JSON-LD declara "Luana Toledo Arquitetura".
   Se o perfil usar outro nome, alinhar os dois.
 - **CAU** — o registro não está no rodapé. Se quiser exibir, incluir em
