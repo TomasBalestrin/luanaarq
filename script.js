@@ -100,7 +100,7 @@
 
   const fecharLupa = () => {
     lupa.hidden = true;
-    lupaImg.src = '';
+    lupaImg.removeAttribute('src');
     document.body.style.overflow = '';
   };
 

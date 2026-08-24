@@ -24,6 +24,137 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="apple-touch-icon" href="assets/favicon.png">
 <meta name="theme-color" content="#2B180E">
 <link rel="stylesheet" href="styles.css">
+<!-- Dados estruturados: liga o site ao Perfil da Empresa no Google.
+     ATENÇÃO: as URLs abaixo usam um domínio provisório
+     (luanatoledoarquitetura.com.br). Trocar pelo domínio real na publicação. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": "https://www.luanatoledoarquitetura.com.br/#escritorio",
+  "name": "Luana Toledo Arquitetura",
+  "alternateName": "Luana Toledo Arquiteta",
+  "description": "Escritório de arquitetura e design de interiores em Taubaté/SP. Projetos residenciais e comerciais no Vale do Paraíba, do primeiro esboço ao acompanhamento da obra.",
+  "url": "https://www.luanatoledoarquitetura.com.br",
+  "logo": "https://www.luanatoledoarquitetura.com.br/assets/logo.png",
+  "image": "https://www.luanatoledoarquitetura.com.br/assets/hero/banner.jpg",
+  "telephone": "+5512991581917",
+  "email": "luanatoledo.arquitetura@gmail.com",
+  "priceRange": "$$",
+  "currenciesAccepted": "BRL",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Taubaté",
+    "addressRegion": "SP",
+    "addressCountry": "BR"
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Taubaté"
+    },
+    {
+      "@type": "City",
+      "name": "Tremembé"
+    },
+    {
+      "@type": "City",
+      "name": "Pindamonhangaba"
+    },
+    {
+      "@type": "City",
+      "name": "Caçapava"
+    },
+    {
+      "@type": "City",
+      "name": "São José dos Campos"
+    },
+    {
+      "@type": "City",
+      "name": "Jacareí"
+    },
+    {
+      "@type": "City",
+      "name": "Vale do Paraíba"
+    }
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Luana Toledo",
+    "jobTitle": "Arquiteta e designer de interiores",
+    "sameAs": "https://instagram.com/arq.luanatoledo"
+  },
+  "knowsAbout": [
+    "Design de interiores",
+    "Projeto arquitetônico",
+    "Reforma residencial",
+    "Projeto comercial",
+    "Marcenaria sob medida"
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "08:00",
+      "closes": "17:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "08:00",
+      "closes": "13:00"
+    }
+  ],
+  "sameAs": [
+    "https://instagram.com/arq.luanatoledo",
+    "https://share.google/qCCWXr15zAazMO1MI"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Serviços",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Design de interiores",
+          "description": "Layout, marcenaria sob medida, iluminação, revestimentos e curadoria de mobiliário, com projeto 3D dos ambientes."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Projeto arquitetônico",
+          "description": "Estudo preliminar, anteprojeto, projeto legal e executivo, com coordenação dos projetos complementares."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Reforma",
+          "description": "Diagnóstico do imóvel existente, definição de prioridades e projeto compatível com estrutura, orçamento e prazo."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Consultoria de interiores",
+          "description": "Orientação pontual de layout, mobiliário, cores, iluminação e decoração, sem projeto completo."
+        }
+      }
+    ]
+  }
+}
+</script>
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
@@ -491,7 +622,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <button class="lupa__nav lupa__nav--ant" aria-label="Foto anterior">&#8249;</button>
   <button class="lupa__nav lupa__nav--prox" aria-label="Próxima foto">&#8250;</button>
   <figure>
-    <img id="lupa-img" src="" alt="">
+    <img id="lupa-img" alt="">
     <figcaption><span id="lupa-legenda"></span><span class="lupa__tag">Antes</span></figcaption>
   </figure>
 </div>

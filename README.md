@@ -59,8 +59,25 @@ Não há espaço físico. O site não exibe endereço nem link de mapa: a refer�
 e no rodapé. A cidade também está no `<title>` e na `meta description`, que é o
 que sustenta a busca local sem um endereço cadastrado.
 
+## Dados estruturados
+
+O `index.html` traz um bloco `application/ld+json` do tipo `ProfessionalService`
+que liga o site ao Perfil da Empresa no Google: telefone, horário, áreas de
+atendimento e os quatro serviços. Como não há endereço público (empresa com
+área de atendimento), o `address` fica só em cidade/estado e o alcance real
+é declarado em `areaServed`.
+
+Ao editar, mantenha telefone, horário e nome **idênticos** ao que aparece no
+Perfil da Empresa e no rodapé. Divergência entre as três fontes enfraquece o
+sinal local. Validar em <https://search.google.com/test/rich-results>.
+
 ## Ainda a preencher
 
+- **Domínio** — o JSON-LD usa `https://www.luanatoledoarquitetura.com.br` como
+  provisório em `url`, `@id`, `logo` e `image`. Trocar pelo domínio real antes
+  de publicar; é o único lugar do site que depende dele.
+- **Nome no Perfil da Empresa** — o JSON-LD declara "Luana Toledo Arquitetura".
+  Se o perfil usar outro nome, alinhar os dois.
 - **CAU** — o registro não está no rodapé. Se quiser exibir, incluir em
   `.rodape__legal` no `index.html`.
 
