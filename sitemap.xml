@@ -1,9 +1,510 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://luanaarq.vercel.app/</loc>
     <lastmod>2026-08-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-hs/01.jpg</image:loc>
+      <image:title>Casa HS</image:title>
+      <image:caption>Projeto residencial: Casa HS. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-hs/02.jpg</image:loc>
+      <image:title>Casa HS</image:title>
+      <image:caption>Projeto residencial: Casa HS. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-hs/03.jpg</image:loc>
+      <image:title>Casa HS</image:title>
+      <image:caption>Projeto residencial: Casa HS. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-hs/04.jpg</image:loc>
+      <image:title>Casa HS</image:title>
+      <image:caption>Projeto residencial: Casa HS. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-hs/05.jpg</image:loc>
+      <image:title>Casa HS</image:title>
+      <image:caption>Projeto residencial: Casa HS. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-hs/06.jpg</image:loc>
+      <image:title>Casa HS</image:title>
+      <image:caption>Projeto residencial: Casa HS. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-hs/07.jpg</image:loc>
+      <image:title>Casa HS</image:title>
+      <image:caption>Projeto residencial: Casa HS. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-hs/08.jpg</image:loc>
+      <image:title>Casa HS</image:title>
+      <image:caption>Projeto residencial: Casa HS. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/01.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/02.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/03.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/04.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/05.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/06.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/07.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/08.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/09.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/10.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/11.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/12.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/13.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/14.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/15.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/16.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/antes-01.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo — antes da reforma</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/antes-02.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo — antes da reforma</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/antes-03.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo — antes da reforma</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/antes-04.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo — antes da reforma</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/antes-05.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo — antes da reforma</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/matheus-caldeira/antes-06.jpg</image:loc>
+      <image:title>Matheus Caldeira Visagismo — antes da reforma</image:title>
+      <image:caption>Projeto comercial: Matheus Caldeira Visagismo — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-tp/01.jpg</image:loc>
+      <image:title>Casa TP</image:title>
+      <image:caption>Projeto residencial: Casa TP. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-tp/02.jpg</image:loc>
+      <image:title>Casa TP</image:title>
+      <image:caption>Projeto residencial: Casa TP. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-tp/03.jpg</image:loc>
+      <image:title>Casa TP</image:title>
+      <image:caption>Projeto residencial: Casa TP. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-tp/04.jpg</image:loc>
+      <image:title>Casa TP</image:title>
+      <image:caption>Projeto residencial: Casa TP. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-tp/05.jpg</image:loc>
+      <image:title>Casa TP</image:title>
+      <image:caption>Projeto residencial: Casa TP. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-tp/06.jpg</image:loc>
+      <image:title>Casa TP</image:title>
+      <image:caption>Projeto residencial: Casa TP. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-tp/07.jpg</image:loc>
+      <image:title>Casa TP</image:title>
+      <image:caption>Projeto residencial: Casa TP. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-tp/08.jpg</image:loc>
+      <image:title>Casa TP</image:title>
+      <image:caption>Projeto residencial: Casa TP. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-tp/antes-01.jpg</image:loc>
+      <image:title>Casa TP — antes da reforma</image:title>
+      <image:caption>Projeto residencial: Casa TP — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-tp/antes-02.jpg</image:loc>
+      <image:title>Casa TP — antes da reforma</image:title>
+      <image:caption>Projeto residencial: Casa TP — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-tp/antes-03.jpg</image:loc>
+      <image:title>Casa TP — antes da reforma</image:title>
+      <image:caption>Projeto residencial: Casa TP — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-tp/antes-04.jpg</image:loc>
+      <image:title>Casa TP — antes da reforma</image:title>
+      <image:caption>Projeto residencial: Casa TP — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-tp/antes-05.jpg</image:loc>
+      <image:title>Casa TP — antes da reforma</image:title>
+      <image:caption>Projeto residencial: Casa TP — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-tp/antes-06.jpg</image:loc>
+      <image:title>Casa TP — antes da reforma</image:title>
+      <image:caption>Projeto residencial: Casa TP — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/marcela-jacon/01.jpg</image:loc>
+      <image:title>Sala Marcela Jacon</image:title>
+      <image:caption>Projeto comercial: Sala Marcela Jacon. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/marcela-jacon/02.jpg</image:loc>
+      <image:title>Sala Marcela Jacon</image:title>
+      <image:caption>Projeto comercial: Sala Marcela Jacon. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/marcela-jacon/03.jpg</image:loc>
+      <image:title>Sala Marcela Jacon</image:title>
+      <image:caption>Projeto comercial: Sala Marcela Jacon. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/marcela-jacon/04.jpg</image:loc>
+      <image:title>Sala Marcela Jacon</image:title>
+      <image:caption>Projeto comercial: Sala Marcela Jacon. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/marcela-jacon/05.jpg</image:loc>
+      <image:title>Sala Marcela Jacon</image:title>
+      <image:caption>Projeto comercial: Sala Marcela Jacon. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/marcela-jacon/06.jpg</image:loc>
+      <image:title>Sala Marcela Jacon</image:title>
+      <image:caption>Projeto comercial: Sala Marcela Jacon. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/marcela-jacon/antes-01.jpg</image:loc>
+      <image:title>Sala Marcela Jacon — antes da reforma</image:title>
+      <image:caption>Projeto comercial: Sala Marcela Jacon — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/marcela-jacon/antes-02.jpg</image:loc>
+      <image:title>Sala Marcela Jacon — antes da reforma</image:title>
+      <image:caption>Projeto comercial: Sala Marcela Jacon — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/marcela-jacon/antes-03.jpg</image:loc>
+      <image:title>Sala Marcela Jacon — antes da reforma</image:title>
+      <image:caption>Projeto comercial: Sala Marcela Jacon — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/marcela-jacon/antes-04.jpg</image:loc>
+      <image:title>Sala Marcela Jacon — antes da reforma</image:title>
+      <image:caption>Projeto comercial: Sala Marcela Jacon — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/marcela-jacon/antes-05.jpg</image:loc>
+      <image:title>Sala Marcela Jacon — antes da reforma</image:title>
+      <image:caption>Projeto comercial: Sala Marcela Jacon — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/marcela-jacon/antes-06.jpg</image:loc>
+      <image:title>Sala Marcela Jacon — antes da reforma</image:title>
+      <image:caption>Projeto comercial: Sala Marcela Jacon — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/marcela-jacon/antes-07.jpg</image:loc>
+      <image:title>Sala Marcela Jacon — antes da reforma</image:title>
+      <image:caption>Projeto comercial: Sala Marcela Jacon — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/01.jpg</image:loc>
+      <image:title>AP 43</image:title>
+      <image:caption>Projeto residencial: AP 43. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/02.jpg</image:loc>
+      <image:title>AP 43</image:title>
+      <image:caption>Projeto residencial: AP 43. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/03.jpg</image:loc>
+      <image:title>AP 43</image:title>
+      <image:caption>Projeto residencial: AP 43. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/04.jpg</image:loc>
+      <image:title>AP 43</image:title>
+      <image:caption>Projeto residencial: AP 43. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/05.jpg</image:loc>
+      <image:title>AP 43</image:title>
+      <image:caption>Projeto residencial: AP 43. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/06.jpg</image:loc>
+      <image:title>AP 43</image:title>
+      <image:caption>Projeto residencial: AP 43. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/07.jpg</image:loc>
+      <image:title>AP 43</image:title>
+      <image:caption>Projeto residencial: AP 43. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/antes-01.jpg</image:loc>
+      <image:title>AP 43 — antes da reforma</image:title>
+      <image:caption>Projeto residencial: AP 43 — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/antes-02.jpg</image:loc>
+      <image:title>AP 43 — antes da reforma</image:title>
+      <image:caption>Projeto residencial: AP 43 — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/antes-03.jpg</image:loc>
+      <image:title>AP 43 — antes da reforma</image:title>
+      <image:caption>Projeto residencial: AP 43 — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/antes-04.jpg</image:loc>
+      <image:title>AP 43 — antes da reforma</image:title>
+      <image:caption>Projeto residencial: AP 43 — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/antes-05.jpg</image:loc>
+      <image:title>AP 43 — antes da reforma</image:title>
+      <image:caption>Projeto residencial: AP 43 — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/antes-06.jpg</image:loc>
+      <image:title>AP 43 — antes da reforma</image:title>
+      <image:caption>Projeto residencial: AP 43 — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/antes-07.jpg</image:loc>
+      <image:title>AP 43 — antes da reforma</image:title>
+      <image:caption>Projeto residencial: AP 43 — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/antes-08.jpg</image:loc>
+      <image:title>AP 43 — antes da reforma</image:title>
+      <image:caption>Projeto residencial: AP 43 — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/antes-09.jpg</image:loc>
+      <image:title>AP 43 — antes da reforma</image:title>
+      <image:caption>Projeto residencial: AP 43 — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-43/antes-10.jpg</image:loc>
+      <image:title>AP 43 — antes da reforma</image:title>
+      <image:caption>Projeto residencial: AP 43 — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/residencia-mt/01.jpg</image:loc>
+      <image:title>Residência MT</image:title>
+      <image:caption>Projeto residencial: Residência MT. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/residencia-mt/02.jpg</image:loc>
+      <image:title>Residência MT</image:title>
+      <image:caption>Projeto residencial: Residência MT. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/residencia-mt/03.jpg</image:loc>
+      <image:title>Residência MT</image:title>
+      <image:caption>Projeto residencial: Residência MT. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/residencia-mt/04.jpg</image:loc>
+      <image:title>Residência MT</image:title>
+      <image:caption>Projeto residencial: Residência MT. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/residencia-mt/05.jpg</image:loc>
+      <image:title>Residência MT</image:title>
+      <image:caption>Projeto residencial: Residência MT. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/seminario-dehoniano/01.jpg</image:loc>
+      <image:title>Seminário Dehoniano</image:title>
+      <image:caption>Projeto institucional: Seminário Dehoniano. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/seminario-dehoniano/02.jpg</image:loc>
+      <image:title>Seminário Dehoniano</image:title>
+      <image:caption>Projeto institucional: Seminário Dehoniano. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/seminario-dehoniano/03.jpg</image:loc>
+      <image:title>Seminário Dehoniano</image:title>
+      <image:caption>Projeto institucional: Seminário Dehoniano. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/seminario-dehoniano/04.jpg</image:loc>
+      <image:title>Seminário Dehoniano</image:title>
+      <image:caption>Projeto institucional: Seminário Dehoniano. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/seminario-dehoniano/05.jpg</image:loc>
+      <image:title>Seminário Dehoniano</image:title>
+      <image:caption>Projeto institucional: Seminário Dehoniano. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/seminario-dehoniano/06.jpg</image:loc>
+      <image:title>Seminário Dehoniano</image:title>
+      <image:caption>Projeto institucional: Seminário Dehoniano. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/seminario-dehoniano/07.jpg</image:loc>
+      <image:title>Seminário Dehoniano</image:title>
+      <image:caption>Projeto institucional: Seminário Dehoniano. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/viviane-rico/01.jpg</image:loc>
+      <image:title>Espaço Viviane Rico</image:title>
+      <image:caption>Projeto comercial: Espaço Viviane Rico. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/viviane-rico/02.jpg</image:loc>
+      <image:title>Espaço Viviane Rico</image:title>
+      <image:caption>Projeto comercial: Espaço Viviane Rico. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/viviane-rico/03.jpg</image:loc>
+      <image:title>Espaço Viviane Rico</image:title>
+      <image:caption>Projeto comercial: Espaço Viviane Rico. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/viviane-rico/04.jpg</image:loc>
+      <image:title>Espaço Viviane Rico</image:title>
+      <image:caption>Projeto comercial: Espaço Viviane Rico. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/studio-sp/01.jpg</image:loc>
+      <image:title>Studio SP</image:title>
+      <image:caption>Projeto residencial: Studio SP. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/studio-sp/02.jpg</image:loc>
+      <image:title>Studio SP</image:title>
+      <image:caption>Projeto residencial: Studio SP. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/studio-sp/03.jpg</image:loc>
+      <image:title>Studio SP</image:title>
+      <image:caption>Projeto residencial: Studio SP. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/studio-sp/04.jpg</image:loc>
+      <image:title>Studio SP</image:title>
+      <image:caption>Projeto residencial: Studio SP. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/studio-sp/antes-01.jpg</image:loc>
+      <image:title>Studio SP — antes da reforma</image:title>
+      <image:caption>Projeto residencial: Studio SP — antes da reforma. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-independencia/01.jpg</image:loc>
+      <image:title>AP Independência</image:title>
+      <image:caption>Projeto residencial: AP Independência. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-independencia/02.jpg</image:loc>
+      <image:title>AP Independência</image:title>
+      <image:caption>Projeto residencial: AP Independência. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/ap-independencia/03.jpg</image:loc>
+      <image:title>AP Independência</image:title>
+      <image:caption>Projeto residencial: AP Independência. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-101/01.jpg</image:loc>
+      <image:title>Casa 101</image:title>
+      <image:caption>Projeto residencial: Casa 101. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://luanaarq.vercel.app/assets/projetos/casa-101/02.jpg</image:loc>
+      <image:title>Casa 101</image:title>
+      <image:caption>Projeto residencial: Casa 101. Arquitetura e design de interiores por Luana Toledo.</image:caption>
+    </image:image>
   </url>
 </urlset>

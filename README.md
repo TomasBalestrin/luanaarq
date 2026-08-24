@@ -90,6 +90,17 @@ redirecionando com 301 para não perder o que já foi indexado.
 `og:image` precisa de URL **absoluta**: com caminho relativo as redes sociais
 não carregam a imagem da prévia.
 
+## Imagens
+
+As 11 capas são servidas em `<picture>`: WebP com JPEG de reserva. As duas
+versões precisam existir; ao trocar uma capa, gere as duas.
+
+As 100 fotos das galerias vivem em `data-fotos` e só entram no DOM quando o
+lightbox abre, então o rastreador não as encontra sozinho. Elas são declaradas
+no `sitemap.xml` com `image:loc`, `image:title` e `image:caption` — é isso que
+as torna elegíveis para a busca por imagens. **Ao mexer nas galerias, regenere
+o sitemap**, senão ele passa a apontar para arquivos que não existem.
+
 ## Search Console
 
 O domínio é um subdomínio do Vercel, então **não dá para criar propriedade
