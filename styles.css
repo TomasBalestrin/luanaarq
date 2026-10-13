@@ -280,7 +280,6 @@ a{ color:inherit; }
   font-size:clamp(.96rem,.9rem + .25vw,1.08rem);
   font-weight:600;
 }
-.hero__acoes{ display:flex; flex-wrap:wrap; gap:.9rem; }
 
 .hero__rodape{
   position:absolute; left:var(--margem); right:var(--margem); bottom:1.7rem;
@@ -780,7 +779,6 @@ a{ color:inherit; }
   .marca__nome{ display:none; }
   .hero{ padding-bottom:6.5rem; }
   .hero__rodape span:first-child{ display:none; }
-  .hero__acoes .btn{ flex:1 1 100%; }
   .hero__nome{ font-stretch:104%; }
   .numeros{ grid-template-columns:1fr; gap:1.6rem; }
   .cota{ font-size:.63rem; letter-spacing:.16em; }
